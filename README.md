@@ -6,6 +6,13 @@
 1. Perform data analysis on the conservation statuses of these species.
 1. Investigate if there are any patterns or themes to the types of species that become endangered.
 
+### Research Questions
+1. What is the distribution of conservation_status for animals?
+1. Are certain types of species more likely to be endangered?
+1. Are the differences between species and their conservation status significant?
+1. Which species were spotted the most at each park?(park_df max observations by species)
+1. What categories of species are the most endangered?(endangered_df)
+
 ### Data
 1. Name of Data Source: Conservation Statuses of Species
 1. Owner of Data: National Parks Service
@@ -23,9 +30,9 @@
 1. Time Frame of Data:
 1. Database Format: 
 
-### Analysis
-1. Type: Purpose: How is it validated? 
-1. Type: Purpose: How is it validated?
+### EDA Analysis
+1. Type: Histogram Purpose: Distribution of conservation_status.  How is it validated?:
+1. Type:  Purpose: How is it validated?
 1. Type: Purpose: How is it validated?
 
 ### Ethical Considerations
