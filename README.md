@@ -7,11 +7,11 @@
 1. Investigate if there are any patterns or themes to the types of species that become endangered.
 
 ### Research Questions
-1. What is the distribution of conservation_status for animals? WORKING
-1. Are certain types of species more likely to be endangered?
+1. What is the distribution of conservation_status for all species? DONE
+1. Are certain types of species more likely to be endangered? DONE
 1. Are the differences between species and their conservation status significant?
 1. Which animal was spotted the most at each park and what is their distribution amongst parks?(park_df max observations by species)
-1. What categories of species are the most endangered?
+1. What categories of species are the most endangered? DONE
 	- Mammals are the most endangered category versus the others.
 
 ### Data
