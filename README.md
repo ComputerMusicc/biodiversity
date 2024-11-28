@@ -9,11 +9,10 @@
 ### Research Questions
 1. What is the distribution of conservation_status for all species? DONE
 1. Are certain types of species more likely to be endangered? DONE
+1. What categories of species are the most endangered? DONE
 1. Do species differ significantly across specific conservation statuses? DONE
 1. Do species differ significantly in the overall likelihood of being protected? DONE
-1. Which animal was spotted the most at each park and what is their distribution amongst parks?(park_df max observations by species)
-1. What categories of species are the most endangered? DONE
-	- Mammals are the most endangered category versus the others.
+1. Which species was spotted the most at each park and what is their distribution amongst parks?
 
 ### Data
 1. Name of Data Source: Conservation Statuses of Species
@@ -27,17 +26,4 @@
 		1. Category 
 		1. scientific_name
 		1. common_names
-		1. conservation_status 
-1. Level of granularity/detail.
-1. Time Frame of Data:
-1. Database Format: 
-
-### EDA Analysis
-1. Type: Histogram Purpose: Distribution of conservation_status.  How is it validated?:
-1. Type:  Purpose: How is it validated?
-1. Type: Purpose: How is it validated?
-
-### Ethical Considerations
-1. What should stakeholders know about the project before they read it?
-1. Discrimination
-1. 
+		1. conservation_status
