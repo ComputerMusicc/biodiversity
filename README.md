@@ -9,7 +9,6 @@
 ### Research Questions
 1. What is the distribution of conservation_status for all species? DONE
 1. Are certain types of species more likely to be endangered? DONE
-1. What categories of species are the most endangered? DONE
 1. Do species differ significantly across specific conservation statuses? DONE
 1. Do species differ significantly in the overall likelihood of being protected? DONE
 1. Which species was spotted the most at each park and what is their distribution amongst parks?
