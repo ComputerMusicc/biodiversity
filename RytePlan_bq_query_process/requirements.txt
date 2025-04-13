@@ -1,0 +1,4 @@
+functions-framework==3.*
+google.cloud.bigquery
+google.cloud.storage
+firebase_functions~=0.1.0
